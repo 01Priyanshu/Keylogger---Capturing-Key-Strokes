@@ -15,6 +15,3 @@ Here's a high-level overview of how you could create a basic keylogger using Pyt
 
 It's important to be aware that using keyloggers on someone else's computer without their explicit consent is a violation of privacy and may be illegal. Make sure to use this knowledge responsibly and only in compliance with applicable laws and ethical guidelines.
 
-Note: The description provided above on creating a keylogger using Python is purely a result of generating text based on the prompt using ChatGPT, an AI language model developed by OpenAI. The purpose of this description is solely educational, and it is essential to note that using keyloggers without proper authorization is illegal and a breach of privacy. The information is provided to showcase the capabilities of the AI model and to increase awareness about potential security risks. It is crucial to always act within the boundaries of legal and ethical guidelines.
-
-How I created keylogger using ChatGPT? Check PDF!
